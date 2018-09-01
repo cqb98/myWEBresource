@@ -1,4 +1,3 @@
-<script>
 function getLocation()
 {
   if (navigator.geolocation)
